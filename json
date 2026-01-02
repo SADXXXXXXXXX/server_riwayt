@@ -1,0 +1,85 @@
+{
+  "series": [
+    {
+      "id": "s_khof",
+      "title": "سلسلة خوف",
+      "author": "أسامة المسلم",
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%AE%D9%88%D9%81_2026-01-01_11-47-57.jpg",
+      "coverColor": "bg-gradient-to-br from-gray-900 to-red-900",
+      "books": [
+        { "id": 101, "title": "خوف - الجزء الأول", "duration": "08:30:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 102, "title": "خوف - الجزء الثاني", "duration": "09:15:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 103, "title": "خوف - الجزء الثالث", "duration": "10:00:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" }
+      ]
+    },
+    {
+      "id": "s_basatin",
+      "title": "بساتين عربستان",
+      "author": "أسامة المسلم",
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A8%D8%B3%D8%A7%D8%AA%D9%8A%D9%86%20%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_2026-01-01_11-47-53.jpg",
+      "coverColor": "bg-gradient-to-br from-green-900 to-black",
+      "books": [
+        { "id": 201, "title": "بساتين عربستان", "duration": "11:00:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 202, "title": "عصبة الشياطين", "duration": "10:45:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%B9%D8%B5%D8%A8%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%A7%D8%B7%D9%8A%D9%86.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 203, "title": "رياح هجر", "duration": "09:30:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%B1%D9%8A%D8%A7%D8%AD%20%D9%87%D8%AC%D8%B1_2026-01-01_11-48-12.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 204, "title": "العرجاء", "duration": "10:15:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D9%84%D8%B9%D8%B1%D8%AC%D8%A7%D8%A1-288-k483128.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 205, "title": "الساحرة الهجينة", "duration": "09:50:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D8%B1%D8%A9%20%D8%A7%D9%84%D9%87%D8%AC%D9%8A%D9%86%D8%A9_2026-01-01_11-48-43.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 206, "title": "عرين الأسد", "duration": "12:00:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%B9%D8%B1%D9%8A%D9%86%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AF_2026-01-01_11-48-20.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" }
+      ]
+    },
+    {
+      "id": "s_zikola",
+      "title": "أرض زيكولا",
+      "author": "عمرو عبد الحميد",
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D8%B1%D8%B6%20%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7_2026-01-01_11-48-31.jpg",
+      "coverColor": "bg-gradient-to-br from-blue-800 to-indigo-900",
+      "books": [
+        { "id": 301, "title": "أرض زيكولا", "duration": "07:30:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 302, "title": "أمار يتا", "duration": "08:00:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D9%85%D8%A7%D8%B1%D9%8A%D8%AA%D8%A7_2026-01-01_11-48-35.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 303, "title": "وادي الذئاب المنسية", "duration": "08:45:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D9%88%D8%A7%D8%AF%20%D8%A7%D9%84%D8%B0%D8%A6%D8%A7%D8%A8%20%D8%A7%D9%84%D9%85%D9%86%D8%B3%D9%8A%D8%A9_2026-01-01_11-48-27.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" }
+      ]
+    },
+    {
+      "id": "s_gartin",
+      "title": "قواعد جارتين",
+      "author": "عمرو عبد الحميد",
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%AC%D8%A7%D8%B1%D8%AA%D9%8A%D9%86_2026-01-01_11-48-01.jpg",
+      "coverColor": "bg-gradient-to-br from-yellow-800 to-orange-900",
+      "books": [
+        { "id": 401, "title": "قواعد جارتين", "duration": "09:00:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 402, "title": "دقات الشامة", "duration": "09:30:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%AF%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8843749543.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" },
+        { "id": 403, "title": "أمواج أكما", "duration": "10:00:00", "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D9%85%D9%88%D8%A7%D8%AC%20%D8%A7%D9%83%D9%85%D8%A7_1580249491129-336x480.jpg", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" }
+      ]
+    },
+    {
+      "id": "s_uktub",
+      "title": "اكتب حتى لا يأكلني الشيطان",
+      "author": "مريم الحيسي",
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A3%D9%83%D8%AA%D8%A8-%D8%AD%D8%AA%D9%89-%D9%84%D8%A7-%D9%8A%D8%A3%D9%83%D9%84%D9%86%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%B7%D8%A7%D9%86-%D9%85%D8%A7%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%8A-pdf.jpg",
+      "coverColor": "bg-gradient-to-br from-gray-700 to-slate-900",
+      "books": [
+        { "id": 501, "title": "اكتب حتى لا يأكلني الشيطان", "duration": "05:00:00", "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a" }
+      ]
+    }
+  ],
+  "standalone": [
+    { 
+      "id": 1, 
+      "title": "إنني أتعفن رعباً", 
+      "author": "مريم الحيسي", 
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D8%A7%D9%86%D9%86%D9%8A%20%D8%A7%D8%AA%D8%B9%D9%81%D9%86%20%D8%B1%D8%B9%D8%A8%D8%A7_2026-01-01_11-48-16.jpg", 
+      "coverColor": "bg-gradient-to-br from-red-950 to-black",
+      "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a"
+    },
+    { 
+      "id": 2, 
+      "title": "بيتشيني", 
+      "author": "مريم الحيسي", 
+      "coverImage": "https://raw.githubusercontent.com/SADXXXXXXXXX/MY_app_assets/refs/heads/main/%D9%8A%D8%AA%D8%B4%D9%8A%D9%86%D9%8A_2026-01-01_16-29-26.jpg", 
+      "coverColor": "bg-gradient-to-br from-pink-900 to-purple-900",
+      "audio": "https://huggingface.co/datasets/dassss777/audio_novels_dd/resolve/main/Track.m4a"
+    }
+  ],
+  "newArrivals": [ 301, 1, 101, 201 ],
+  "mostListened": [ 2, 102, 302, 206 ]
+}
