@@ -1,4 +1,8 @@
 {
+  "notifications": [
+    { "id": 1, "text": "تم إضافة روايات بساتين عربستان!", "time": "الآن", "type": "info" },
+    { "id": 2, "text": "تحديث جديد للمكتبة الصوتية", "time": "منذ ساعة", "type": "system" }
+  ],
   "series": [
     {
       "id": "s_khof",
